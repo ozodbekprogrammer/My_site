@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\ozodbek"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sayt"
+	}
+}
